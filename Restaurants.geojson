@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Restaurants",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1.0, "Id": 1, "Name": "Haloa Cafe" }, "geometry": { "type": "Point", "coordinates": [ 28.228813098280046, -25.753203766654607 ] } },
+{ "type": "Feature", "properties": { "fid": 2.0, "Id": 2, "Name": "Artisan Coffee" }, "geometry": { "type": "Point", "coordinates": [ 28.228995098405925, -25.754124910148864 ] } },
+{ "type": "Feature", "properties": { "fid": 3.0, "Id": 3, "Name": "Pure Cafe" }, "geometry": { "type": "Point", "coordinates": [ 28.229269955738889, -25.754318053139595 ] } }
+]
+}
